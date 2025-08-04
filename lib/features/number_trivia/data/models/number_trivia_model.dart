@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 import 'package:number_trivia/features/number_trivia/domain/entities/number_trivia_entity.dart';
 
 class NumberTriviaModel extends NumberTriviaEntity{
